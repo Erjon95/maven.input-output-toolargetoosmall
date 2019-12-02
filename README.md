@@ -1,4 +1,4 @@
-# JavaFundamentals-AliceAndBob
+# JavaFundamentals-TooLargeTooSmall
 
 * **Objective** - To create an `InputEvaluator` which is capable of identifying valid-user-names.
 * **Purpose**
@@ -6,12 +6,14 @@
         * Control Flow
         * Conditionals
         * `Scanner` object
+        * `Random` object
 * **Description**
     * You are provided with a java class named `InputEvaluator`
     * Your objective is to complete the `run` method by following the line-by-line comments describing the algorithm to be implemented
     * In short, our objective is:
-        * Write a program which prompts the user to input his/her name.
-        * The program should greet users whose names are 'Alice' and 'Bob'.
+        * Write a program which prompts the user to guess a randomly selected value within a _range_. 
+        * The program should count the number of times a user guesses.
+            * if a user enters the same guess multiple times, then the program does not increment the number of guesses.
 
 
 

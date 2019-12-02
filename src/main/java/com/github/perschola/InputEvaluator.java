@@ -2,15 +2,36 @@ package com.github.perschola;
 
 public class InputEvaluator {
     public void run() {
-        // prompt user to input name
-        // get name input from user
+        // create random number between 1 and n
+        // create integer representative of the number of guesses
 
-        // evaluate name input from user
-            // if name is not "Alice" nor "Bob"
-                // display "Stranger danger!" to console
-            // if name is "Alice"
-                // display "Welcome, Alice!"
-            // if name is "Bob"
-                // display "Welcome, Bob!"
+        // prompt user to guess number between 1 and n
+        // get user input
+
+
+
+        // evaluate input from user
+
+            // if input is too low, then
+                // display "too low!" to console
+                // if input is different from last guess, then
+                    // increment number of guesses by 1
+                // prompt user to re-input value
+
+
+
+            // if input is too high, then
+                // display "too high!"
+                // if input is different from last guess, then
+                    // increment number of guesses by 1
+                // prompt user to re-input value
+
+
+
+            // if input is correct value, then
+                // display "Correct value!"
+                // if input is different from last guess, then
+                    // increment number of guesses by 1
+                // display number of guesses
     }
 }
