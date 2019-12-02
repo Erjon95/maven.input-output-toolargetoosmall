@@ -19,14 +19,11 @@
     * Control Flow
     * Conditionals
     * User input
-    * Object instantation/declaration
-    * Method invokation
+    * Object instantiation/declaration
+    * Method invocation
 
 ### **Resources:**
 * [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
 
 ### Unit Test
 * No Unit Tests required
-
-
-### Instructions
