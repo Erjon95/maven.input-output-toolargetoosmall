@@ -9,6 +9,10 @@
 * **Description**
     * You are provided with a java class named `InputEvaluator`
     * Your objective is to complete the `run` method by following the line-by-line comments describing the algorithm to be implemented
+    * In short, our objective is:
+        * Write a program which prompts the user to input his/her name.
+        * The program should greet users whose names are 'Alice' and 'Bob'.
+
 
 
 
