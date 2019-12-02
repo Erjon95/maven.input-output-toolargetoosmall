@@ -25,5 +25,5 @@
 ### **Resources:**
 * [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
 
-### Unit Test
+### **Unit Test**
 * No Unit Tests required
