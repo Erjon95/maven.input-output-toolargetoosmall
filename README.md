@@ -1,27 +1,21 @@
 # JavaFundamentals-AliceAndBob
 
-## `Fork` this Repository
-* You should work on this project in your own repository.
-* Click the `fork` button in the top right corner to create a copy of this repository on your github account.
-* You can go through the [GitHub forking tutorial](https://help.github.com/articles/fork-a-repo/) if you need additional practice with this.
+* **Objective** - To create an `InputEvaluator` which is capable of identifying valid-user-names.
+* **Purpose**
+    * To establish familiarity with
+        * Control Flow
+        * Conditionals
+        * `Scanner` object
+* **Description**
+    * You are provided with a java class named `InputEvaluator`
+    * Your objective is to complete the `run` method by following the line-by-line comments describing the algorithm to be implemented
 
 
-## **Alice and Bob Greeting**
 
+## Part 1 - Clone the project
 
-### Objective:
-* Write a program which prompts the user to input his/her name.
-* The program should greet users whose names are 'Alice' and 'Bob'.
-
-
-### Purpose:
-* To establish familiarity with
-    * Control Flow
-    * Conditionals
-    * User input
-    * Object instantiation/declaration
-    * Method invocation
-
-
-### **Unit Test**
-* No Unit Tests required
+* Begin by _forking_ this project into a personal repository.
+   * To do this, click the `Fork` button located at the top right of this page.
+* Navigate to your github profile to find the _newly forked repository_.
+* Clone the repository from **your account** into the `~/dev` directory.
+* Open the newly cloned project in a code editor (Visual Studio Code, for example).
