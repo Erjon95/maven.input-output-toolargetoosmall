@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.perschola</groupId>
-    <artifactId>maven-template-project</artifactId>
+    <artifactId>maven.input-output-aliceandbob</artifactId>
     <version>1.0</version>
 
     <build>
