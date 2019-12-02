@@ -1,8 +1,32 @@
-# Perschola Maven Template
-* **Objective** - The purpose of this repository is to create a standard template to clone from when creating new projects.
+# ZCW-MicroLabs-JavaFundamentals-AliceAndBob
 
-## How to use
-* To use this project as template, _clone_ the project into you `~/dev` directory.
-* Upon cloning, open the project in a text editor (VSCode, IntelliJ, SublimeText, Atom, etc.)
-* Ensure that the `artifactId` of the project is changed from `maven-template-project` to a more appropriate project name.
-* Click view the [`README-Sample.md`](./README-Sample.md) to view _how_ a `README` should be structured for a project.
+## `Fork` this Repository
+* You should work on this project in your own repository.
+* Click the `fork` button in the top right corner to create a copy of this repository on your github account.
+* You can go through the [GitHub forking tutorial](https://help.github.com/articles/fork-a-repo/) if you need additional practice with this.
+
+
+## Alice and Bob Greeting
+
+
+### **Objective:**
+* Write a program which prompts the user to input his/her name.
+* The program should greet users whose names are 'Alice' and 'Bob'.
+
+
+### **Purpose:**
+* To establish familiarity with
+    * Control Flow
+    * Conditionals
+    * User input
+    * Object instantation/declaration
+    * Method invokation
+
+### **Resources:**
+* [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
+
+### Unit Test
+* No Unit Tests required
+
+
+### Instructions
